@@ -1,0 +1,11 @@
+D:\Test\GenerateQRCode\Debug\GenerateQRCode.exe.config
+D:\Test\GenerateQRCode\Debug\GenerateQRCode.exe
+D:\Test\GenerateQRCode\Debug\GenerateQRCode.pdb
+D:\Test\GenerateQRCode\GenerateQRCode\obj\Debug\GenerateQRCode.csproj.AssemblyReference.cache
+D:\Test\GenerateQRCode\GenerateQRCode\obj\Debug\GenerateQRCode.Form1.resources
+D:\Test\GenerateQRCode\GenerateQRCode\obj\Debug\GenerateQRCode.Properties.Resources.resources
+D:\Test\GenerateQRCode\GenerateQRCode\obj\Debug\GenerateQRCode.csproj.GenerateResource.cache
+D:\Test\GenerateQRCode\GenerateQRCode\obj\Debug\GenerateQRCode.csproj.CoreCompileInputs.cache
+D:\Test\GenerateQRCode\GenerateQRCode\obj\Debug\GenerateQRCode.csproj.CopyComplete
+D:\Test\GenerateQRCode\GenerateQRCode\obj\Debug\GenerateQRCode.exe
+D:\Test\GenerateQRCode\GenerateQRCode\obj\Debug\GenerateQRCode.pdb
